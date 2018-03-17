@@ -1,0 +1,20 @@
+[ 2017-11-23T17:19:32+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001853s ]
+
+[ 2017-11-23T18:12:29+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-11-23T18:12:52+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-11-23T18:13:33+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+

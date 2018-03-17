@@ -1,0 +1,15 @@
+[ 2017-08-11T14:55:17+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000232s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-11T14:55:28+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1&op=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-08-11T14:55:31+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1&op=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+

@@ -1,0 +1,10 @@
+[ 2017-10-11T12:41:04+08:00 ] 127.0.0.1 /Desktop/start.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+
+[ 2017-10-11T12:41:16+08:00 ] 127.0.0.1 /Desktop/%E4%BA%A4%E4%BA%92/start.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+

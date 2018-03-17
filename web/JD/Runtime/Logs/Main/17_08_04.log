@@ -1,0 +1,160 @@
+[ 2017-08-04T12:42:16+08:00 ] 127.0.0.1 /list/getLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+
+[ 2017-08-04T12:42:43+08:00 ] 127.0.0.1 /list/getLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-08-04T12:42:44+08:00 ] 127.0.0.1 /list/getLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-08-04T12:43:01+08:00 ] 127.0.0.1 /list/getLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2017-08-04T12:43:02+08:00 ] 127.0.0.1 /list/getLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-08-04T12:43:03+08:00 ] 127.0.0.1 /list/getLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-08-04T12:43:15+08:00 ] 127.0.0.1 /list/reportLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-08-04T13:01:08+08:00 ] 127.0.0.1 /list/checkVin?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-08-04T13:01:21+08:00 ] 127.0.0.1 /list/checkVin?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-08-04T13:01:33+08:00 ] 127.0.0.1 /list/checkVin?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-08-04T13:05:06+08:00 ] 127.0.0.1 /list/checkVin?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-08-04T13:05:18+08:00 ] 127.0.0.1 /list/reportLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-08-04T15:41:35+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-08-04T15:46:21+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2017-08-04T15:49:13+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
+[ 2017-08-04T15:49:16+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+
+[ 2017-08-04T15:49:18+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+
+[ 2017-08-04T15:49:33+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2017-08-04T15:49:58+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2017-08-04T15:50:00+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2017-08-04T15:50:19+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+
+[ 2017-08-04T15:50:28+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-08-04T15:50:32+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-08-04T15:50:57+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2017-08-04T15:51:01+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-08-04T15:51:02+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-08-04T15:51:09+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=1&epage=888
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+
+[ 2017-08-04T15:51:13+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=1&epage=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-08-04T15:51:19+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=1&epage=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-08-04T15:51:21+08:00 ] 127.0.0.1 /message/msgLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&type=22&p=1&epage=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2017-08-04T18:23:02+08:00 ] 127.0.0.1 /list/reportLists?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-08-04T18:34:53+08:00 ] 127.0.0.1 /crun/getfxreport?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LFMARE2C190216092&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+

@@ -1,0 +1,160 @@
+[ 2017-08-08T12:19:31+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&ids[]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+
+[ 2017-08-08T12:42:00+08:00 ] 127.0.0.1 /list/checkvin?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LDCC23T27C1239903
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-08-08T12:44:19+08:00 ] 127.0.0.1 /list/reportlists?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&ids[]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-08-08T16:23:25+08:00 ] 127.0.0.1 /list/addorder?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LDCC23T27C1239903&money=0.01&ptype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-08-08T16:24:01+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-08-08T16:25:34+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-08-08T16:26:00+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-08-08T16:31:40+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-08-08T16:31:54+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-08-08T16:32:09+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-08-08T16:32:18+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-08-08T16:32:27+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-08-08T16:32:42+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-08-08T16:32:48+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-08-08T16:32:50+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-08-08T16:32:51+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-08-08T16:32:52+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-08-08T16:32:53+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-08-08T16:46:06+08:00 ] 127.0.0.1 /list/addorder?ping_session=71443c19ef04b1bbef42625abf6025d71f0addd2&vin=LDCC23T27C1239903&money=0.01&ptype=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-08-08T16:46:35+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-08-08T16:47:21+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-08-08T16:48:19+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-08-08T16:49:48+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-08-08T16:49:53+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-08-08T16:51:09+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+
+[ 2017-08-08T17:04:05+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+
+[ 2017-08-08T17:04:53+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+
+[ 2017-08-08T17:05:06+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+
+[ 2017-08-08T17:06:51+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
+[ 2017-08-08T17:07:06+08:00 ] 127.0.0.1 /list/continuePay?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2017-08-08T20:04:42+08:00 ] 127.0.0.1 /list/picOcr?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2017-08-08T20:05:07+08:00 ] 127.0.0.1 /list/picOcr?ping_session=0be4ed3d9338d322ebb0866803750270cb1cd43a&id=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+

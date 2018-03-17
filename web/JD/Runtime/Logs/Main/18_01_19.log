@@ -1,0 +1,20 @@
+[ 2018-01-19T11:37:42+08:00 ] 127.0.0.1 /jutil/sendsms?ping_session=7630d2146768f2e290379f5c4d262d3978fdf960&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001772s ]
+
+[ 2018-01-19T11:38:37+08:00 ] 127.0.0.1 /jutil/sendSms?ping_session=7630d2146768f2e290379f5c4d262d3978fdf960&id=1&devicetype=1&phone=18515461852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2018-01-19T11:39:05+08:00 ] 127.0.0.1 /jutil/sendSms?ping_session=7630d2146768f2e290379f5c4d262d3978fdf960&id=1&devicetype=1&phone=18515461852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2018-01-19T11:39:57+08:00 ] 127.0.0.1 /jutil/sendSms?ping_session=7630d2146768f2e290379f5c4d262d3978fdf960&id=1&devicetype=1&phone=18515461852&beta=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+

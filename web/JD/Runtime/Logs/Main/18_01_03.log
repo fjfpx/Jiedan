@@ -1,0 +1,30 @@
+[ 2018-01-03T11:47:51+08:00 ] 127.0.0.1 /uc/submitReg?phone=18600806103&password=123456&phone_valicode=000308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2018-01-03T11:48:07+08:00 ] 127.0.0.1 /uc/submitReg?phone=18600806703&password=123456&phone_valicode=000308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2018-01-03T11:59:23+08:00 ] 127.0.0.1 /uc/submitReg?phone=13261263333&password=123456&phone_valicode=000308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2018-01-03T12:00:17+08:00 ] 127.0.0.1 /uc/submitReg?phone=13261264333&password=123456&phone_valicode=000308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2018-01-03T14:59:01+08:00 ] 127.0.0.1 /uc/submitlogin?phone=13261264333&password=123456&phone_valicode=000308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2018-01-03T14:59:24+08:00 ] 127.0.0.1 /user/getUserInfo?phone=13261264333&password=123456&phone_valicode=000308&ping_session=269b19232daaa48a8532a9b2cdef9fdd1c8245ce
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+

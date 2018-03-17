@@ -1,0 +1,85 @@
+[ 2017-09-13T18:46:33+08:00 ] 127.0.0.1 /recharge/alipayRecharge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+
+[ 2017-09-13T18:47:03+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=943679e541f7b6e2a861582e37681ca6ca290fe8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-09-13T18:47:40+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18515461852&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-09-13T18:47:43+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=943679e541f7b6e2a861582e37681ca6ca290fe8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-09-13T18:47:45+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=311012a30fb37171ba9fe758096122ea070c1479
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-09-13T18:47:50+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-09-13T18:47:58+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-09-13T18:49:28+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-09-13T18:50:33+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-09-13T18:51:18+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-09-13T18:53:20+08:00 ] 127.0.0.1 /recharge/wechatPay?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-09-13T19:34:39+08:00 ] 127.0.0.1 /recharge/rechargeMenu?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2017-09-13T19:36:21+08:00 ] 127.0.0.1 /recharge/rechargeMenu?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-09-13T19:37:41+08:00 ] 127.0.0.1 /recharge/rechargeMenu?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2017-09-13T19:39:44+08:00 ] 127.0.0.1 /recharge/rechargeMenu?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-09-13T19:39:46+08:00 ] 127.0.0.1 /recharge/rechargeMenu?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2017-09-13T19:39:47+08:00 ] 127.0.0.1 /recharge/rechargeMenu?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+

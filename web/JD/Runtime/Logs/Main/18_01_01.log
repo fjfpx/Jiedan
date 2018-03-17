@@ -1,0 +1,50 @@
+[ 2018-01-01T13:39:26+08:00 ] 127.0.0.1 /Information/idCheck?ping_session=be9939be738af36f4c4591b08357342fa56c17af&name=%E9%99%88%E5%86%9B%E5%88%9A&idcard=622726198904051210&front_pic=https://jd.cheheyan.com/data/upload/20171229/5a4618512f4aa.jpg&behind_pic=https://jd.cheheyan.com/data/upload/20171229/5a46185c655d2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+
+[ 2018-01-01T13:40:20+08:00 ] 127.0.0.1 /Information/idCheck?ping_session=be9939be738af36f4c4591b08357342fa56c17af&name=%E9%99%88%E5%86%9B%E5%88%9A&idcard=622726198904051210&front_pic=https://jd.cheheyan.com/data/upload/20171229/5a4618512f4aa.jpg&behind_pic=https://jd.cheheyan.com/data/upload/20171229/5a46185c655d2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-01-01T13:41:05+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852&beta=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-01-01T13:41:33+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852&beta=1&devicetype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-01-01T13:42:28+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852&beta=1&devicetype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2018-01-01T13:42:52+08:00 ] 127.0.0.1 /jutil/sendsms?phone=18515461852&beta=1&devicetype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-01-01T13:43:31+08:00 ] 127.0.0.1 /uc/findPwd?phone=18515461852&phonevalicode=280553
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2018-01-01T13:43:43+08:00 ] 127.0.0.1 /uc/findPwd?phone=18515461852&phone_valicode=280553
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2018-01-01T13:45:20+08:00 ] 127.0.0.1 /uc/findPwd?phone=18515461852&phone_valicode=280553&ping_session=be9939be738af36f4c4591b08357342fa56c17af
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2018-01-01T13:45:30+08:00 ] 127.0.0.1 /uc/findPwd?phone=18515461852&phone_valicode=280553
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+

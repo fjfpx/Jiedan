@@ -1,0 +1,230 @@
+[ 2017-12-14T12:23:39+08:00 ] 127.0.0.1 /Information/bank4element?id=2&ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+
+[ 2017-12-14T12:24:03+08:00 ] 127.0.0.1 /Information/bank4element?id=2&ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-12-14T14:09:21+08:00 ] 127.0.0.1 /Information/bank4element?id=2&ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-12-14T16:16:38+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-12-14T16:17:24+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-14T16:18:10+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-12-14T16:18:58+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-12-14T16:24:39+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-12-14T16:29:43+08:00 ] 127.0.0.1 /user/pwdReset?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&oldpwd=123456&newpwd=qwe123&newpwd2=qwe123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-12-14T16:30:06+08:00 ] 127.0.0.1 /jutil/logout?ping_session=f0367035e86c8b87e646e7ab286cb21cb0c4edbb&oldpwd=123456&newpwd=qwe123&newpwd2=qwe123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-12-14T16:30:14+08:00 ] 127.0.0.1 /uc/submitlogin?phone=13261263333&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-12-14T16:30:25+08:00 ] 127.0.0.1 /uc/submitlogin?phone=13261263333&password=qwe123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-12-14T16:58:30+08:00 ] 127.0.0.1 /uc/submitlogin?phone=13261263333&password=qwe123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-12-14T16:58:37+08:00 ] 127.0.0.1 /uc/submitlogin?phone=13261263333&password=qwe123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-12-14T16:58:58+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-12-14T16:59:16+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-12-14T16:59:35+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-12-14T17:00:02+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-12-14T17:00:19+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-12-14T17:00:36+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-12-14T17:00:58+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-12-14T17:10:52+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+
+[ 2017-12-14T17:10:53+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2017-12-14T17:11:23+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+
+[ 2017-12-14T17:12:15+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-12-14T17:13:07+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2017-12-14T17:15:40+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-12-14T17:16:10+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+
+[ 2017-12-14T17:18:16+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+
+[ 2017-12-14T17:18:17+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
+[ 2017-12-14T17:18:31+08:00 ] 127.0.0.1 /Information/infoPost?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2017-12-14T17:50:58+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2017-12-14T17:51:16+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+
+[ 2017-12-14T17:53:26+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-12-14T17:54:46+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-12-14T17:56:52+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-12-14T17:58:44+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2017-12-14T17:59:04+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2017-12-14T18:28:57+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&area=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E5%B8%82%E6%98%8C%E5%B9%B3%E5%8C%BA&family_addr=%E5%9B%9E%E9%BE%99%E8%A7%82%E5%A4%A7%E8%A1%971%E5%8F%B7%E6%A5%BC228&immediate_ship=1&immediate_name=%E5%93%88%E5%93%88&immediate_phone=13536732638&others_ship=5&others_name=%E5%B0%BC%E7%8E%9B&others_phone=18678745632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+
+[ 2017-12-14T18:31:57+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+
+[ 2017-12-14T18:33:13+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+
+[ 2017-12-14T18:33:50+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2017-12-14T18:33:51+08:00 ] 127.0.0.1 /Information/checkbank?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+
+[ 2017-12-14T18:42:22+08:00 ] 127.0.0.1 /Information/getRelationship?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2017-12-14T18:49:01+08:00 ] 127.0.0.1 /Information/getRelationship?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-12-14T18:49:12+08:00 ] 127.0.0.1 /Information/getRelationship?ping_session=b21ba33a5e52760c0503f7d42b11e46d150cabeb&card=6221560099924980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+

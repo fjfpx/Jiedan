@@ -1,0 +1,10 @@
+[ 2017-08-15T18:42:53+08:00 ] 127.0.0.1 /list/checkvin?ping_session=f58ed4546bf4e24a3c1a0686f01b55c7b115d58b&vin=LFV2A21K9E4168312
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-08-15T19:04:40+08:00 ] 127.0.0.1 /list/rpinfo?ping_session=f58ed4546bf4e24a3c1a0686f01b55c7b115d58b&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+

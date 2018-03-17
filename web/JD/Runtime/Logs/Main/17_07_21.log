@@ -1,0 +1,105 @@
+[ 2017-07-21T13:23:34+08:00 ] 127.0.0.1 /coupon/getlist?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&vin=LFBJDBB43WJ000118
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000225s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-07-21T13:23:47+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-07-21T13:24:25+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-07-21T13:31:43+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-07-21T13:32:55+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-07-21T13:34:22+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-07-21T13:34:41+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-07-21T13:37:32+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-07-21T13:43:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-07-21T13:52:39+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-07-21T13:53:35+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-07-21T15:27:10+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-07-21T15:27:35+08:00 ] 127.0.0.1 /recharge/alipayRecharge?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-07-21T16:32:06+08:00 ] 127.0.0.1 /cb/returnUrl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-07-21T16:33:32+08:00 ] 127.0.0.1 /cb/returnUrl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-07-21T17:11:49+08:00 ] 127.0.0.1 /cb/notifyUrl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-07-21T17:30:23+08:00 ] 127.0.0.1 /cb/notifyUrl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-07-21T17:32:36+08:00 ] 127.0.0.1 /cb/notifyUrl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-07-21T18:17:18+08:00 ] 127.0.0.1 /list/addorder?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1&vin=LFMARE2C190216092&money=8&ptype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+
+[ 2017-07-21T18:17:40+08:00 ] 127.0.0.1 /list/addorder?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1&vin=LFMARE2C190216092&money=8&ptype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-07-21T18:58:51+08:00 ] 127.0.0.1 /list/addorder?ping_session=00a87b8d00525295a803661ca8c3db68942d4d16&money=1&vin=LFMARE2C190216092&money=8&ptype=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+

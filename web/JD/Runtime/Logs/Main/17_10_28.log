@@ -1,0 +1,45 @@
+[ 2017-10-28T16:23:58+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18515461852&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+
+[ 2017-10-28T16:24:14+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18600806603&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-10-28T16:26:25+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18600806603&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-10-28T16:26:47+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18600806603&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-10-28T16:26:52+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18600806603&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2017-10-28T16:27:07+08:00 ] 127.0.0.1 /uc/sbtlogin?phone=18600806603&phone_valicode=308
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-10-28T16:27:32+08:00 ] 127.0.0.1 /share/reportShare?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-10-28T16:27:38+08:00 ] 127.0.0.1 /share/reportShare?id=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-10-28T16:28:05+08:00 ] 127.0.0.1 /share/reportShare?id=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+

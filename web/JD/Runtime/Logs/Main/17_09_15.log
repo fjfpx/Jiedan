@@ -1,0 +1,110 @@
+[ 2017-09-15T11:50:35+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-09-15T11:52:08+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2017-09-15T11:55:31+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-09-15T11:56:16+08:00 ] 127.0.0.1 /list/addOrder?ping_session=311012a30fb37171ba9fe758096122ea070c1479&vin=LFMARE2C190216092
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-09-15T11:56:28+08:00 ] 127.0.0.1 /list/addOrder?ping_session=311012a30fb37171ba9fe758096122ea070c1479&vin=LFMARE2C190216092&money=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-09-15T11:56:49+08:00 ] 127.0.0.1 /list/addOrder?ping_session=311012a30fb37171ba9fe758096122ea070c1479&vin=LFMARE2C190216092&money=10&ptype=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-09-15T11:57:45+08:00 ] 127.0.0.1 /list/addOrder?ping_session=311012a30fb37171ba9fe758096122ea070c1479&vin=LFMARE2C190216092&money=10&ptype=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-09-15T11:58:02+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-09-15T11:58:13+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-09-15T11:59:10+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-09-15T11:59:29+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-09-15T11:59:45+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-09-15T11:59:57+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4&op=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-09-15T12:00:20+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4&op=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-09-15T12:00:41+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-09-15T12:00:46+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4&op=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-09-15T12:00:59+08:00 ] 127.0.0.1 /recharge/rechargelists?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4&op=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-09-15T12:05:32+08:00 ] 127.0.0.1 /list/getPrice?ping_session=311012a30fb37171ba9fe758096122ea070c1479&id=4&op=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2017-09-15T12:12:10+08:00 ] 127.0.0.1 /uc/sbtlogin?ping_session=311012a30fb37171ba9fe758096122ea070c1479&vin=LFMARE2C190216092&money=10&ptype=2&phone=18616541832
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2017-09-15T12:12:18+08:00 ] 127.0.0.1 /uc/sbtlogin?ping_session=311012a30fb37171ba9fe758096122ea070c14791&vin=LFMARE2C190216092&money=10&ptype=2&phone=18616541832
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-09-15T12:12:38+08:00 ] 127.0.0.1 /uc/sbtlogin?ping_session=311012a30fb37171ba9fe758096122ea070c14791&vin=LFMARE2C190216092&money=10&phone_valicode=308&phone=18616541832
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+
+[ 2017-09-15T12:12:53+08:00 ] 127.0.0.1 /uc/sbtlogin?ping_session=311012a30fb37171ba9fe758096122ea070c14791&vin=LFMARE2C190216092&money=10&phone_valicode=308&phone=18616541832
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+
